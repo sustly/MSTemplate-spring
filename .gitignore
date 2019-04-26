@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+MSTemplate.iml
+out
+target
+out/artifacts/MSTemplate_war_exploded/WEB-INF/resources/
+out/artifacts/MSTemplate_war_exploded/resources/
+src/test/
+target/generated-sources/
